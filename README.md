@@ -9,11 +9,6 @@ A modern **MERN Stack Expense Tracker** that helps users securely manage their p
 **Frontend:**  
 https://expense-tracker-nine-rho-67.vercel.app
 
-**Backend API:**  
-https://expense-tracker-backend-3umu.onrender.com/api
-
-> **Note:** The backend is hosted on Render's free tier. The first request after inactivity may take up to a minute while the server wakes up.
-
 ---
 
 # 📖 Overview
